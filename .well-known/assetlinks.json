@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.felipebassi.lunido",
+      "sha256_cert_fingerprints": [
+        "C7:8D:48:C5:58:57:71:9E:26:9F:15:27:02:A7:24:B2:A5:51:58:E3:DD:F2:D2:A9:BF:C4:70:92:C1:3B:9A:BC"
+      ]
+    }
+  }
+]
